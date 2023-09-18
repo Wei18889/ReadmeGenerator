@@ -11,17 +11,17 @@ const questions = [
     {
       type: 'input',
       name: 'description',
-      message: 'Please provide a brief description of your project:',
+      message: 'Please provide a brief description of your Project:',
     },
     {
       type: 'input',
       name: 'installation',
-      message: 'Please provide installation instructions for your project:',
+      message: 'Please provide installation instructions for your Project:',
     },
     {
       type: 'input',
       name: 'usage',
-      message: 'Please provide usage information for your project:',
+      message: 'Please provide usage information for your Project:',
     },
     {
       type: 'list',
