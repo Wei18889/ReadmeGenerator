@@ -1,9 +1,9 @@
 
-  # Read me generator
+  # Readme Generator
   
   ## Description
   
-  this is a read me generator
+  This project showcase the power of NODE
   
   ## Table of Contents
   
@@ -38,5 +38,3 @@
   
   For additional questions, please contact Wei Yu at weiyu12gao@gmail.com.
   
-  # Professional README Generator Starter Code
-
